@@ -1,3 +1,3 @@
 def capital_letters(string):
-    '''все заглавные'''
+    '''Все заглавные'''
     return string.upper()
