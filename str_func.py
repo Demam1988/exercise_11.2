@@ -3,4 +3,5 @@ def capital_letters(string):
 
 
 def capital_letters(string2):
+    '''первая заглавная'''
     return string2.title()
