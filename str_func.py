@@ -4,5 +4,5 @@ def capital_letters(string):
 
 
 def first_capital(string2):
-    '''Преобразования в верхний регистр первых букв слов в строке'''
+    '''Преобразования в Верхний регистр первых букв слов в строке'''
     return string2.title()
