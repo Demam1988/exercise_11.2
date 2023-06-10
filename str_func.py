@@ -3,6 +3,6 @@ def capital_letters(string):
     return string.upper()
 
 
-ef first_capital(string2):
+def first_capital(string2):
     '''преобразования в верхний регистр первых букв слов в строке'''
     return string2.title()
